@@ -26,7 +26,7 @@ Installation & Setup
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/node-dashboard.git
+git clone  https://github.com/nupur2511-parekh/node-dashboard.git
 cd node-dashboard
 
 2️⃣ Install Dependencies
